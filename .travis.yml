@@ -1,3 +1,6 @@
 language: java
 sudo: enabled
 
+after success:
+  echo "todo something"
+  scp -r *.md  root@123.56.9.228:/home/LLblog/jekyll-theme-H2O/_posts
