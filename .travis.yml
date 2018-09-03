@@ -1,4 +1,4 @@
 language: java
 sudo: enabled
 
-script:script.sh
+script:true
