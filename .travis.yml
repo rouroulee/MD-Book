@@ -1,4 +1,3 @@
-language: python
 sudo: enabled
 before_install:
 - openssl aes-256-cbc -K $encrypted_25d4f9124a0e_key -iv $encrypted_25d4f9124a0e_iv
