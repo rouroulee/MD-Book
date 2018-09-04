@@ -1,8 +1,5 @@
 sudo: enabled
-before_install:
-- openssl aes-256-cbc -K $encrypted_25d4f9124a0e_key -iv $encrypted_25d4f9124a0e_iv
-  -in id_rsa.enc -out ~\/.ssh/id_rsa -d
-  - chmod 600 ~/.ssh/id_rsa
+
 addons:
   ssh_known_hosts: 123.56.9.228
 script:
