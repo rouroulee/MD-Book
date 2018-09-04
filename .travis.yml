@@ -3,5 +3,7 @@ sudo: enabled
 addons:
   ssh_known_hosts: 123.56.9.228
 script:
-  - echo "execute script ··· ···"
+  - ssh root@123.56.9.228
+  - bb1413..
+  pwd
 
