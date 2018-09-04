@@ -1,5 +1,5 @@
 ---
-layout :post
+layout : post
 title: Consistent hashing 一致性算法
 date: 2017-01-02 12:03:17
 tags: redis
