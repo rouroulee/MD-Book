@@ -5,4 +5,6 @@ before_install:
   -in id_rsa.enc -out ~\/.ssh/id_rsa -d
 addons:
   ssh_known_hosts: 123.56.9.228
-script:true
+script:
+  - echo "execute script ··· ···"
+
