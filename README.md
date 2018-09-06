@@ -1,5 +1,5 @@
 # MD-Book
-for test Tarvis CI 
+一些学习笔记关于Java、持续集成、PM、机器学习
 [![Build Status](https://travis-ci.org/rouroulee/MD-TarvisCI-Test.svg?branch=master)](https://travis-ci.org/rouroulee/MD-TarvisCI-Test)
 
 
